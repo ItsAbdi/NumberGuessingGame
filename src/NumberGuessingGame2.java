@@ -8,7 +8,7 @@ public class NumberGuessingGame2 {
 //        System.out.println(pickedNumber);
 
 
-        System.out.println("Hello and welcome to my number guessing game.");
+        System.out.println("Hello and welcome to the number guessing game.");
         System.out.println("Pick a number: ");
 
         Scanner inputnum = new Scanner(System.in);
