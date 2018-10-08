@@ -33,7 +33,7 @@ public class NumberGuessingGame2 {
             }
 
             else if(guess < number){
-                System.out.println("Number is to low, tray again");
+                System.out.println("Number is to low, try again");
 
             }
 
